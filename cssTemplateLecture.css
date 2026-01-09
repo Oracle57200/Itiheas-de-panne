@@ -1,0 +1,145 @@
+#outerDiv {
+    background-color: #4b3a2a;
+    width: 1000px;
+    height: 950px;
+    margin: auto;
+
+}
+
+body {
+    background-color: #f4f1ec;
+
+}
+
+/*universal slector*/
+* {
+    margin: 0px;
+}
+
+#titleDiv {
+    height: 60px;
+    line-height: 60px;
+    background-color: #1e3a5f;
+    color: white;
+
+}
+
+#logo {
+    width: 40px;
+    height: 40px;
+    background-color: white;
+    float: left;
+    margin-top: 10px;
+    margin-left: 20px;
+    border-radius: 50%;
+    background-image: url(../img/logo2.png);
+    background-size: contain;
+    box-shadow: 5px 5px 5px black;
+}
+
+.txt {
+    font-size: larger;
+    margin-left: 20px;
+    text-shadow: 5px 5px 2px gray;
+}
+
+#menuDiv {
+    width: inherit;
+    line-height: 50px;
+    background-color: #1B1B3A;
+    float: left;
+}
+
+#menuDiv ol {
+    list-style: none;
+}
+
+#menuDiv li {
+    float: left;
+    padding-left: 8px;
+    padding-right: 12px;
+    background-color: #d4af37;
+    margin: 5px;
+    color: #f5f5f5;
+}
+
+#menuDiv li:hover {
+    opacity: .7;
+}
+
+#TitlePic {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 40px;
+}
+.card
+{
+     width: 1080px;
+    height:200px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.card1
+{
+    background-image: url(../img/card2.png);
+}
+.card2
+{
+    background-image: url(../img/card3.png);
+}
+
+.card1:hover{
+    background-image: url(../img/card1.png);
+}
+.card2:hover
+{
+    background-image: url(../img/logo.png);
+}
+
+.OurProducts
+{
+    width: inherit;
+    line-height: 60px;
+    background-color: #c89b3c;
+    color: #2a1b0a;
+    
+}
+#ProductDiv
+{
+    width: inherit;
+    height: 300px;
+    background-color:#fff8ee;
+
+}
+.ProductCard
+{   width: 300px;
+    height: 280px;
+    background-color: #fff8ee;
+    float: left;
+    margin: 10px;
+    border: #e0c097;
+    background-size:contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.pc1
+{
+    background-image: url(../img/Facts.png);
+}
+
+.pc2
+{
+    background-image: url(../img/About.png);
+}
+.pc3{
+    background-image: url(../img/Audio.png);
+}
+
+#LocDiv{
+    width: inherit;
+    height: 200px;
+    background-color: #1B1B3A;
+
+}
