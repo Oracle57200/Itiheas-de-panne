@@ -87,15 +87,15 @@ body {
 }
 .card2
 {
-    background-image: url(../img/card3.png);
+    background-image: url(img/card3.png);
 }
 
 .card1:hover{
-    background-image: url(../img/card1.png);
+    background-image: url(img/card1.png);
 }
 .card2:hover
 {
-    background-image: url(../img/logo.png);
+    background-image: url(img/logo.png);
 }
 
 .OurProducts
@@ -126,15 +126,15 @@ body {
 }
 .pc1
 {
-    background-image: url(../img/Facts.png);
+    background-image: url(img/Facts.png);
 }
 
 .pc2
 {
-    background-image: url(../img/About.png);
+    background-image: url(img/About.png);
 }
 .pc3{
-    background-image: url(../img/Audio.png);
+    background-image: url(img/Audio.png);
 }
 
 #LocDiv{
@@ -144,5 +144,6 @@ body {
 
 
 }
+
 
 
