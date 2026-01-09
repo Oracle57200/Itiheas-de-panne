@@ -126,15 +126,15 @@ body {
 }
 .pc1
 {
-    background-image: url(img/Facts.png);
+    background-image: url(img/facts.png);
 }
 
 .pc2
 {
-    background-image: url(img/About.png);
+    background-image: url(img/about.png);
 }
 .pc3{
-    background-image: url(img/Audio.png);
+    background-image: url(img/audio.png);
 }
 
 #LocDiv{
@@ -144,6 +144,7 @@ body {
 
 
 }
+
 
 
 
