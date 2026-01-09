@@ -118,7 +118,7 @@ body {
     height: 280px;
     background-color: #fff8ee;
     float: left;
-    margin: 10px;
+    margin: 10px;            
     border: #e0c097;
     background-size:contain;
     background-position: center;
@@ -141,5 +141,6 @@ body {
     width: inherit;
     height: 200px;
     background-color: #1B1B3A;
+
 
 }
