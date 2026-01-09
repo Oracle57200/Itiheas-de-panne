@@ -32,7 +32,7 @@ body {
     margin-top: 10px;
     margin-left: 20px;
     border-radius: 50%;
-    background-image: url(/img/logo2.png);
+    background-image: url(img/logo2.png);
     background-size: contain;
     box-shadow: 5px 5px 5px black;
 }
@@ -83,7 +83,7 @@ body {
 
 .card1
 {
-    background-image: url(../img/card2.png);
+    background-image: url(img/card2.png);
 }
 .card2
 {
@@ -144,4 +144,5 @@ body {
 
 
 }
+
 
